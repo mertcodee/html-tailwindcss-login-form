@@ -3,4 +3,4 @@
 
 If you want to see more videos like this, subscribe to my channel. [Mertcode](https://www.youtube.com/@Mertcode)
 
-![preview img](/preview.png)
+![preview img](/tailwindcss-loginform-thumbnail.png)
